@@ -1,4 +1,4 @@
-## Sales Dashboard – Supermarket Shop (Power BI Project)
+# Sales Dashboard – Supermarket Shop (Power BI Project)
 This Power BI project analyzes supermarket sales performance across products, categories, time periods, sales types, and payment modes.
 The dashboard provides a quick and clear view of overall business health and daily operational trends.
 
